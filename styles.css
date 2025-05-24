@@ -1,0 +1,118 @@
+/* Base styles */
+.t-body {
+    margin: 0;
+    color: #ffffff;
+}
+
+/* Records styles */
+.t-records {
+    opacity: 1;
+}
+
+/* Navigation styles */
+@media screen and (max-width: 980px) {
+    #rec1015714401 .t456__leftcontainer {
+        padding: 20px;
+    }
+    #rec1015714401 .t456__imglogo {
+        padding: 20px 0;
+    }
+}
+
+#rec1015714401 .t-menu__link-item {}
+@supports (overflow:-webkit-marquee) and (justify-content:inherit) {
+    #rec1015714401 .t-menu__link-item,
+    #rec1015714401 .t-menu__link-item.t-active {
+        opacity: 1 !important;
+    }
+}
+
+#rec1015714401 .t456__logowrapper a {
+    color: #ffffff;
+}
+
+#rec1015714401 a.t-menu__link-item {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+#rec1015714401 .t456__logo {
+    color: #ffffff;
+}
+
+/* Cover section styles */
+#rec1015689786 .t001__uptitle {
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+/* Features section styles */
+#rec1015689791 .t472__title {
+    color: #ffffff;
+}
+
+#rec1015689791 .t472__descr {
+    color: #ffffff;
+}
+
+/* Why Us section styles */
+.t-section__descr {
+    max-width: 560px;
+    color: #ffffff;
+}
+
+#rec1015689801 .t-section__title {
+    margin-bottom: 40px;
+    color: #ffffff;
+}
+
+#rec1015689801 .t-section__descr {
+    margin-bottom: 105px;
+    color: #ffffff;
+}
+
+@media screen and (max-width: 960px) {
+    #rec1015689801 .t-section__title {
+        margin-bottom: 20px;
+    }
+    #rec1015689801 .t-section__descr {
+        margin-bottom: 45px;
+    }
+}
+
+#rec1015689801 .t-section__title {
+    color: #ffffff;
+}
+
+#rec1015689801 .t-section__descr {
+    color: #ffffff;
+}
+
+#rec1015689801 .t-card__title {
+    color: #ffffff;
+}
+
+#rec1015689801 .t-card__descr {
+    color: #ffffff;
+}
+
+/* Slider styles */
+#rec1015689836 .t-slds__bullet_active .t-slds__bullet_body {
+    background-color: #222 !important;
+}
+
+#rec1015689836 .t-slds__bullet:hover .t-slds__bullet_body {
+    background-color: #222 !important;
+}
+
+/* Footer styles */
+#rec1015689841 .t345-text {
+    color: #ffffff;
+}
+
+/* IE8 specific styles */
+@media \0screen {
+    #rec1015714401 .t456 {
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000',endColorstr='#D9000000');
+    }
+} 
